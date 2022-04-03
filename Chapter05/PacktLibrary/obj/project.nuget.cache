@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6+W9I/Kahl3wqReXvPSthSnU58v2xTreP8ah4r29jOAOefFZzoFZzOACkYFD0/gf0JaYFpMac1rHH8SLmVjsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AeonNova\\source\\repos\\C# Projects\\C# 9 and .NET 5\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AeonNova\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AeonNova\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
