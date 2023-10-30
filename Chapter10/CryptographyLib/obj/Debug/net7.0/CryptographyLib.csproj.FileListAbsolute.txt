@@ -1,0 +1,11 @@
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\bin\Debug\net7.0\CryptographyLib.deps.json
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\bin\Debug\net7.0\CryptographyLib.dll
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\bin\Debug\net7.0\CryptographyLib.pdb
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.dll
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\refint\CryptographyLib.dll
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\CryptographyLib.pdb
+C:\Users\AeonNova\source\repos\C# Projects\C# 9 and .NET 5\Chapter10\CryptographyLib\obj\Debug\net7.0\ref\CryptographyLib.dll
